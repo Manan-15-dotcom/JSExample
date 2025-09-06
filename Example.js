@@ -8,6 +8,7 @@ let a1=19;
 let a2=31;
 
 console.log(a1+a2)
+console.log(a1-a2)
 
 let sum=19+31;
 let isEqual = (sum === 50);
